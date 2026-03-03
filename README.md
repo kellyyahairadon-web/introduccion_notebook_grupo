@@ -1,5 +1,5 @@
-el nombre de curso: 501 integrantes : Kelly fonseca Santiago benavides ,
-Valentina saavedra
+ ##Curso: 501 
+integrantes : Kelly fonseca ,Santiago benavides ,Valentina saavedra
 
 Objetivo de aprendizaje
 
